@@ -18,9 +18,9 @@ Welcome to my GitHub profile! I'm a passionate UI/UX designer and an avid MAchin
 
 Here are some of my Figma design projects:
 
-- [Project 1: Incandescence 2024 case study]([https://www.figma.com/file/yourfilelink](https://www.figma.com/community/file/1410032348903664394/incandescence-2024-a-cultural-fest-case-study))
+- [Project 1: Incandescence 2024 case study](https://www.figma.com/file/yourfilelink](https://www.figma.com/community/file/1410032348903664394/incandescence-2024-a-cultural-fest-case-study))
 
-- [Project 2: Wardrobe App ClosetRove ]([https://www.figma.com/file/yourfilelink](https://www.figma.com/design/P5WmDFmApZyIq3N1ZnjT8b/ClosetRove?node-id=0-1&t=so68xCWaVxOF0wtn-1))
+- [Project 2: Wardrobe App ClosetRove ](https://www.figma.com/file/yourfilelink](https://www.figma.com/design/P5WmDFmApZyIq3N1ZnjT8b/ClosetRove?node-id=0-1&t=so68xCWaVxOF0wtn-1))
 
 ## 🔗 Connect with Me
 
